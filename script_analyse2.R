@@ -1,5 +1,7 @@
 #### CONF VARIABLES #####
 
+#setwd(your path) #get it with getwd() function in your R shell, non needed for unix based systems
+
 pattern_to_be <- "_extr.csv"
 
 sep_ = ','
