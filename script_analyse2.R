@@ -60,8 +60,6 @@ for (i in 1:len_){
 
   stop2 = 0
 
-  print(column_name[[i]])
-
   for (ib in col_to_search){
 
        if (col_to_search[col_pos2] != column_name[[i]] && stop2 == 0){
