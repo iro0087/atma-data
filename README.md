@@ -5,6 +5,22 @@ Automate extraction of csv in R
 
 The documentation references CONF VARIABLES at the top of the source code "script_analyse2.R"
 
+                           #### CONF VARIABLES #####
+
+                           #setwd(your path) #get it with getwd() function in your R shell, non needed for unix based systems
+
+                            pattern_to_be <- "_extr.csv"
+
+                            sep_ = ','
+                            
+                            val_to_stop <- list("15000", "14000", "6")
+                            
+                            column_name <- list("Salaire", "Salaire", "Absence") 
+                            
+                            list_names <- list("salaires.csv", "salaires2.csv", "salaires3.csv") # the files you want to clean
+                            
+                            #######################
+
 ## Usage 
 
 - Put your files you want to clean in the CONF VARIABLES, in **list_names** list
