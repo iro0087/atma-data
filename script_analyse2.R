@@ -2,7 +2,7 @@
 
 #setwd(your path) #get it with getwd() function in your R shell, non needed for unix based systems
 
-# !!! This is a configuration exmaple, please update to your needs following README.md !!!
+# !!! This is a configuration example, please update to your needs following README.md !!!
 
 pattern_to_be <- "_extr.csv"
 
