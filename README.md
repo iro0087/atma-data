@@ -1,7 +1,7 @@
 # atma-data
 Automate extraction of csv in R
 
-## Warinig
+## Warning
 
 The documentation references CONF VARIABLES at the top of the source code "script_analyse2.R"
 
