@@ -1,6 +1,10 @@
 # atma-data
 Automate extraction of csv in R
 
+## Warinig
+
+The documentation references CONF VARIABLES at the top of the source code "script_analyse2.R"
+
 ## Usage 
 
 - Put your files you want to clean in the CONF VARIABLES, in **list_names** list
