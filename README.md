@@ -13,8 +13,6 @@ pattern_to_be = "_extr"
 
 file_work.csv --> file_work_extr.csv
 
-  input file        output file
-
 This work for n file in the **list_name** list
 
 - Put the **row** asociated with the **column** (basically a cell) you want the output file bind __row by row__ the input file corresponding until it gets the cell
