@@ -76,12 +76,6 @@ for (i in 1:len_){
 
   }
 
-  print(z[,col_pos])
-
-  print(val_to_stop[[i]])
-
-  print(typeof(val_to_stop[[i]]))
-
   i2 = 2
 
   while (stop == 0 && i2 < len2_)
@@ -106,8 +100,6 @@ for (i in 1:len_){
   }
 
   stop = 0
-
-  print(name)
 
   write.csv(df, name, row.names=FALSE)    
   
