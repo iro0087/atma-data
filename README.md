@@ -51,4 +51,20 @@ So, i put B in **column_name** list in the CONF VARIABLES at the __index__ of th
 
 I do the same with 3 in __val_to_stop__
 
+## Troubleshooting
+
+If you are on windows, you have to 
+
+    setwd(path) 
+
+At the begining of the script.
+
+Where path can be see with
+
+    getwd()
+
+In your R shell.
+
+
+
 
