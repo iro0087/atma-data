@@ -23,7 +23,7 @@ The documentation references CONF VARIABLES at the top of the source code "scrip
 
 ## Usage 
 
-- Put your files you want to clean in the CONF VARIABLES, in **list_names** list
+- Put your files name you want to clean in the CONF VARIABLES, in **list_names** list
 
 - **pattern_to_be** variable is the pattern that will be concatenatedto to the name of your input files for the output files
 
