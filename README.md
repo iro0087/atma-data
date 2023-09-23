@@ -29,7 +29,7 @@ The documentation references CONF VARIABLES at the top of the source code "scrip
 
 **Example:**
 
-pattern_to_be = "_extr"
+pattern_to_be = "_extr.csv"
 
 file_work.csv --> file_work_extr.csv
 
